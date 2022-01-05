@@ -1,0 +1,14 @@
+<div class="footer">
+ 
+    {% for cat in site.data.footer %}
+        <div class="category">
+            <p class="category-title">{{ cat.category }}</p>
+            {% for item in cat.links %}
+                <p><a href="{{ item.link }}">{{ item.name }}</a></p>
+            {% endfor %}
+            {% if cat.category == 'Documents' %}<p><a href="{{ page.url }}">Recursion</a></p>{% endif %}
+        </div>
+    {% endfor %}
+
+    
+</div>

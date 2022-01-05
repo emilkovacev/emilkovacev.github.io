@@ -1,1 +1,21 @@
-{{ content }}
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+    <div class="page">
+      {% include nav.html %}
+      <h1 class="title">{{ page.display }}</h1>
+      <p>{{ content }}</p>
+    </div>
+    <footer>
+        {% include footer.html %}
+    </footer>
+    <div class="citation">
+        <em>developed with <a href="https://github.com/emilkovacev/aeroplane">aeroplane</a>, a Jekyll framework</em>
+    </div>
+  </body>
+</html>

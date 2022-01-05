@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+
+    i {
+        color: grey;
+    }
+
+    a {
+        text-decoration: none;
+        color: #347aeb;
+
+        &:visited {
+            color: #2248d4;
+        }
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    .page {
+        max-width: 800px;
+        padding: 0 50px;
+        margin: 0 auto 50px auto;
+    }
+
+    .citation {
+        a, p {
+            font-size: 16px;
+        }
+        max-width: 800px;
+        margin: 0 auto 30px auto;
+        padding: 0 50px;
+    }
+}
+

@@ -2,4 +2,13 @@
 layout: default
 ---
 
-{{ content }}
+<div class="header">
+    <div class="info">
+        <em><h2>{{ page.category }}</h2></em>
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.date | date_to_string }}</p>
+    </div>
+    <img src="/assets/images/{{ page.image }}" style="border: 5px solid {{ page.bordercolor }}">
+</div>
+
+<div class="blog-content">{{ content }}</div>

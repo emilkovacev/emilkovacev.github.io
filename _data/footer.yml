@@ -1,0 +1,14 @@
+- category: 'Social'
+  links:
+  - name: 'MakeOpenSource'
+    link: 'https://makeopensource.org'
+  - name: 'GitHub'
+    link: 'https://github.com/emilkovacev'
+  - name: 'LinkedIn'
+    link: 'https://linkedin.com/in/emilkovacev'
+
+- category: 'Documents'
+  links:
+  - name: 'Resume'
+    link: '/assets/resume.pdf'
+
