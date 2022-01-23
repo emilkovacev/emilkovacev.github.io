@@ -4,14 +4,20 @@ category: Book Review
 title: The Discrete Charm of the Machine by Ken Steiglitz
 image: "the-discrete-charm-of-the-machine.jpg"
 bordercolor: "#92d07c"
+permalink: /the-discrete-charm-of-the-machine/
 
 ---
+
+### Introduction
 
 In the early 19<sup>th</sup> century, foundational discoveries in the field of 
 mathematics, physics, chemistry, and, oddly enough, embroidery paved 
 the way to developing the lightning-quick computers we rely on today. 
 Steiglitz explores the course of impact of these discoveries to inform 
-the reader on how he believes technology will advance in the future.
+the reader on how he believes technology will advance in the future.<br><br>
+
+
+### More History Than Science
 
 Steiglitz’s most exciting literary choice, as prefaced by his quip 
 in the introduction, was to leave (most) equations out. The book is 
@@ -35,6 +41,7 @@ illustrate the big picture.
     </figcaption>
 </div>
 
+
 Narrative structure plays a significant role in how Steiglitz portrays 
 his timeline. At the heart of *The Discrete Charm of the Machine* is 
 Steiglitz’s definition of a modern computer, which is broken up into 
@@ -49,13 +56,20 @@ machines and their digital counterparts, focusing on what each machine
 contributed towards his definition of a modern computer. Despite this, 
 the reader is never left behind, unless they are willing to follow 
 the footnotes in great detail. The brilliance of *The Discrete Charm 
-of the Machine* is in its simplicity.
+of the Machine* is in its simplicity.<br><br>
+
+
+### Final Thoughts
 
 Steiglitz excels in providing context to the quick advancement of digital 
 machines. He expertly describes fundamental computing topics like 'transistors' 
 and 'NP-complete algorithms', tying them together to form a basic understanding 
 of new emerging fields in computer science. *The Discrete Charm of the Machine* 
-is a must-read for computer science enthusiasts and casual readers alike.
+is a must-read for computer science enthusiasts and casual readers
+alike.<br><br>
 
-– Emil Lars Kovačev
+– Emil Lars Kovačev<br><br>
 
+
+### Updates
+2022-01-23 Added categories (Introduction, More History Than Science, Final Thoughts)
