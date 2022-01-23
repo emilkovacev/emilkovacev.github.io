@@ -7,11 +7,7 @@ body {
 
     a {
         text-decoration: none;
-        color: #347aeb;
 
-        &:visited {
-            color: #2248d4;
-        }
 
         &:hover {
             text-decoration: underline;
@@ -20,7 +16,7 @@ body {
 
     .page {
         max-width: 800px;
-        padding: 0 50px;
+        padding: 0 20px;
         margin: 0 auto 50px auto;
     }
 
