@@ -15,10 +15,10 @@ muddled. I couldn't tell you the dates, order, or any significant contributions
 of ancient civilizations. Nor could I recount important periods, people, general
 developments, etc. While I could point many fingers to many people, including
 myself (I acknowledge I played a large part in my ignorance), I find this first
-and foremost to be a failure in American education. Middle school and high
+and foremost to be a failure of American education. Middle school and high
 school rarely ever focused on developing the foundation for history necessary to
 properly analyze contemporary historical events. Teachers focused on building
-analytical skills for passages and piecing together certain points of view – all
+analytical skills for passages and piecing together certain points of view - all
 important skills for a historian, but less meaningful without proper context. I
 have plenty of additional thoughts on the subject of education, but I will have
 to save them for another time. Needless to say, I was unsatisfied with my
@@ -32,13 +32,13 @@ World* was the perfect companion to get me back on track.<br><br>
 Growing up, I was never especially enthralled by history classes. Most of them
 focused on precise, direct causes and effects that led to revolutions and
 changes in lifestyle. During the Renaissance for instance, it is easy to
-describe the impact that ancient Greek and ancient Roman empires had on the
-architecture, art and general lifestyle in Italy. But (I would argue) it is
-*more* important to understand that the Renaissance occurred contrary to the
-lifestyle of the Middle Ages, following a long period of Feudalism. Somewhat
-ironically, Italy's recapture of antiquity marked the beginning of the New Age.
-Understanding the background, the *what came before* is something that *A Little
-History of the World* introduces and expands on wonderfully.
+describe the impact that ancient Greece had on the architecture, art and general
+lifestyle in Italy. But (I would argue) it is *more* important to understand
+that the Renaissance occurred contrary to the lifestyle of the Middle Ages,
+following a long period of Feudalism. Somewhat ironically, Italy's recapture of
+antiquity marked the beginning of the New Age. Understanding the background, the
+*what came before* is something that *A Little History of the World* introduces
+and expands on wonderfully.
 
 
 When assigned to write this novel, as mentioned in the introduction, Gombrich
@@ -48,7 +48,7 @@ reasons) to provide a who, what, and when within his descriptions of historical
 events. As an addition, Gombrich approached *A Little History of the World* with
 little formality, and introduced complexity through *ideas*, generally by
 examining the effects that dozens of previous chapters in history had on the
-chapter he was narrating. It was written as a children's book by design –
+chapter he was narrating. It was written as a children's book by design -
 however *A Little History of the World* is still valuable to readers of all ages
 looking to standardize history, and put it into context. If you were to read its
 reviews on the back of the cover, you would find a general consensus in this:
@@ -67,10 +67,18 @@ a curiosity within me. This book serves mostly as an atlas, a guide through the
 ages of civilization if you will. I fully intend to explore some of my favorite
 sections in more detail, including ancient Greek and Chinese civilization, the
 conquests of Alexander the Great, Confucian philosophy, the Renaissance, and
-most surprisingly of all, Napoleon's post-french revolution reign! If you, the
+most surprisingly of all, Napoleon's reign in post—revolutionary France! If you, the
 reader, are in desperate need to rekindle your passion for history, or are
 perhaps looking to strengthen and contextualize human civilization from
 antiquity to WWII, *A Little History of the World* is the perfect book to start
 with.<br><br>
 
-*– Emil Lars Kovačev*
+
+*\- Emil Lars Kovačev*<br><br>
+
+
+### Corrections
+
+#### 2022-01-23  
+- Revised wording of renaissance influences
+- Corrected title of ancient Greece

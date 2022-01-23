@@ -71,5 +71,7 @@ alike.<br><br>
 – Emil Lars Kovačev<br><br>
 
 
-### Updates
-2022-01-23 Added categories (Introduction, More History Than Science, Final Thoughts)
+### Corrections
+#### 2022-01-23
+    
+- Added categories (Introduction, More History Than Science, Final Thoughts)
