@@ -32,13 +32,13 @@ World* was the perfect companion to get me back on track.<br><br>
 Growing up, I was never especially enthralled by history classes. Most of them
 focused on precise, direct causes and effects that led to revolutions and
 changes in lifestyle. During the Renaissance for instance, it is easy to
-describe the impact that ancient Greece had on the architecture, art and general
-lifestyle in Italy. But (I would argue) it is *more* important to understand
-that the Renaissance occurred contrary to the lifestyle of the Middle Ages,
-following a long period of Feudalism. Somewhat ironically, Italy's recapture of
-antiquity marked the beginning of the New Age. Understanding the background, the
-*what came before* is something that *A Little History of the World* introduces
-and expands on wonderfully.
+describe the impact that ancient Greece had on the architecture, art, and law in
+Italy. But (I would argue) it is *more* important to understand that the
+Renaissance occurred contrary to the lifestyle of the Middle Ages, following a
+long period of Feudalism. Somewhat ironically, Italy's recapture of antiquity
+marked the beginning of the New Age. Understanding the background, the *what
+came before* is something that *A Little History of the World* introduces and
+expands on wonderfully.
 
 
 When assigned to write this novel, as mentioned in the introduction, Gombrich
