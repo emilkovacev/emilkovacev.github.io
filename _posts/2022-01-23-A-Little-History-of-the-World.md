@@ -51,23 +51,23 @@ examining the effects that dozens of previous chapters in history had on the
 chapter he was narrating. It was written as a children's book by design –
 however *A Little History of the World* is still valuable to readers of all ages
 looking to standardize history, and put it into context. If you were to read its
-reviews on the back of the cover, you would find a general concensus in this:
+reviews on the back of the cover, you would find a general consensus in this:
 book critics love this book, and for good reason. As of right now, it is without
 a doubt my favorite book.<br><br>
 
 
 ### Reading History
 
-As I mentioned earier, I was not dedicated to reinforce my understanding of
+As I mentioned earlier, I was not dedicated to reinforce my understanding of
 historical events prior to reading *A Little History of the World*. Fortunately,
 and rather excitingly, Gombrich's exploration in human historical events,
 recounting epic tales from the dawn of civilization to brilliant and ruthless
-emprors and leaders, to conquests on behalf of faith and knowledge, has kindled
+emperors and leaders, to conquests on behalf of faith and knowledge, has kindled
 a curiosity within me. This book serves mostly as an atlas, a guide through the
 ages of civilization if you will. I fully intend to explore some of my favorite
 sections in more detail, including ancient Greek and Chinese civilization, the
-conquests of Alexander the Great, Confuciun philosophy, the Renaissance, and
-most surprisingly of all, Napolean's post-french revolution reign! If you, the
+conquests of Alexander the Great, Confucian philosophy, the Renaissance, and
+most surprisingly of all, Napoleon's post-french revolution reign! If you, the
 reader, are in desperate need to rekindle your passion for history, or are
 perhaps looking to strengthen and contextualize human civilization from
 antiquity to WWII, *A Little History of the World* is the perfect book to start
