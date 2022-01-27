@@ -1,11 +1,23 @@
+$small: 600px;
+
+
 .bookshelf {
     display: flex;
     flex-wrap: wrap;
-    .book {
-        margin: 0 40px 20px 0;
+}
 
-        img.book-img {
-            max-height: 250px;
-        }
+.book       {margin: 0 40px 20px 0; }
+
+.book-img   {max-height: 250px; } 
+
+@media only screen and (max-width: $small) {
+    .book {
+        width: 100%;
+        margin: 20px 50px;
+    }
+    .book-img {
+        width: 100%;
+        max-height: none;
+        height: auto;
     }
 }
