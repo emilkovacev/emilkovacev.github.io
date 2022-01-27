@@ -1,0 +1,10 @@
+- title: 'A Little History of the World'
+  img: 'a-little-history-of-the-world.jpg'
+  status: 'completed'
+- title: 'The Discrete Charm of the Machine'
+  img: 'the-discrete-charm-of-the-machine.jpg'
+  status: 'completed'
+- title: 'A Brief History of Time'
+  img: 'a-brief-history-of-time.jpg'
+  status: 'in-progress'
+

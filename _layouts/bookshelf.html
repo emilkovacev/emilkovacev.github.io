@@ -1,0 +1,17 @@
+---
+layout: default
+title: Bookshelf
+display: Bookshelf
+permalink: /bookshelf/
+
+---
+
+<div class="bookshelf">
+
+  {% assign books = site.data.books | sort: "title" %}
+  {% for book in books %}
+    <div class="book">
+        <img class="book-img" src="/assets/images/{{ book.img }}"/>
+    </div>
+  {% endfor %}
+</div>

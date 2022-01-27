@@ -1,0 +1,11 @@
+.bookshelf {
+    display: flex;
+    flex-wrap: wrap;
+    .book {
+        margin: 0 40px 20px 0;
+
+        img.book-img {
+            max-width: 150px;
+        }
+    }
+}

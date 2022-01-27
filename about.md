@@ -2,6 +2,8 @@
 layout: default
 title: About
 display: About
+permalink: /about/
+
 ---
 
 I am an undergraduate student at the University at Buffalo studying Computer Science. 

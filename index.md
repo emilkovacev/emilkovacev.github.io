@@ -2,6 +2,8 @@
 title: Home
 layout: default
 display: Idea Lab
+permalink: /
+
 ---
 
 Current
