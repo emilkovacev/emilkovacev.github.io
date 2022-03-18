@@ -2,7 +2,7 @@
 layout: post 
 category: Book Review 
 title: A Little History of the World by E.H. Gombrich 
-image: "A-Little-History-of-the-World.jpg" 
+image: "a-little-history-of-the-world.jpg" 
 bordercolor: "#090805"
 permalink: /a-little-history-of-the-world/
 
