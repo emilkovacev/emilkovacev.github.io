@@ -1,7 +1,5 @@
 - category: 'Social'
   links:
-  - name: Git
-    link: https://git.emilkovacev.com
   - name: GitHub
     link: https://github.com/emilkovacev
   - name: LinkedIn
@@ -11,8 +9,6 @@
   links:
   - name: RateMyFrogs
     link: https://ratemyfrogs.com
-  - name: DonkeyKongDecember
-    link: https://donkeykongdecember.com
   - name: Personal
     link: /
 
@@ -20,5 +16,3 @@
   links:
   - name: MakeOpenSource
     link: https://makeopensource.org
-  - name: MakeOpenSource Rework
-    link: https://dev.makeopensource.org
