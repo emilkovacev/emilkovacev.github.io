@@ -6,15 +6,16 @@ permalink: /
 
 ---
 
-Current
-* Teaching Assistant for CSE 421/521, Operating Systems
-* [Teaching Assistant for CSE 220, Systems Programming](https://cse.buffalo.edu/~eblanton/course/cse220/)
-* [President of MakeOpenSource](https://makeopensource.org/about)
+**Current**
 
-Former
-* Test Automation Developer Intern at IBM
-* [Research Assistant at CactiLab](https://cactilab.github.io/#Members)<br/><br/>
+* Test Automation Developer, IBM
 
-If you came here because of MakeOpenSource, visit our [website](https://makeopensource.org)
+**Former**
+
+* 2021 - 2023 | [President of MakeOpenSource](https://makeopensource.org/about)
+* 2023 | Teaching Assistant for CSE 421/521, Operating Systems
+* 2021 - 2023[Teaching Assistant for CSE 220, Systems Programming](https://cse.buffalo.edu/~eblanton/course/cse220/)
+* 2022 | Test Automation Developer Intern at IBM
+* 2021 - 2022 | [Research Assistant at CactiLab](https://cactilab.github.io/#Members)<br/><br/>
 
 Click [here](/blog) to visit my blog
