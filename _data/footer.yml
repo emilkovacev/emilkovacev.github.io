@@ -5,13 +5,6 @@
   - name: LinkedIn
     link: https://linkedin.com/in/emilkovacev
 
-- category: 'Fun Websites'
-  links:
-  - name: RateMyFrogs
-    link: https://ratemyfrogs.com
-  - name: Personal
-    link: /
-
 - category: 'MakeOpenSource'
   links:
   - name: Website
